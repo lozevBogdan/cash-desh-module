@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Withdrawal 1",
+			"name": "1.Withdrawal 1",
 			"request": {
 				"method": "POST",
 				"header": [
@@ -43,7 +43,7 @@
 			"response": []
 		},
 		{
-			"name": "Withdrawal 2",
+			"name": "2.Withdrawal 2",
 			"request": {
 				"method": "POST",
 				"header": [
@@ -79,7 +79,7 @@
 			"response": []
 		},
 		{
-			"name": "Deposit 1",
+			"name": "3.Deposit 1",
 			"request": {
 				"method": "POST",
 				"header": [
@@ -115,7 +115,7 @@
 			"response": []
 		},
 		{
-			"name": "Deposit 2",
+			"name": "4.Deposit 2",
 			"request": {
 				"method": "POST",
 				"header": [
@@ -151,7 +151,7 @@
 			"response": []
 		},
 		{
-			"name": "Balance",
+			"name": "5.Balance",
 			"request": {
 				"method": "POST",
 				"header": [

@@ -1,5 +1,0 @@
-Old balance: 1000 - New balance:900. Currency:BGN
-Old balance: 2000 - New balance:1500. Currency:EUR
-Old balance: 900 - New balance:1500. Currency:BGN
-Old balance: 1500 - New balance:1700. Currency:EUR
-Old balance: 1700 - New balance:1200. Currency:EUR
